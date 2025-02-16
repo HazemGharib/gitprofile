@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://hazemgharib.github.io/gitprofile">
-    <img src="https://github.com/hazemgharib/gitprofile/assets/45073703/eb6c38a4-ac92-4006-869b-e4e24f6f5cf6" alt="Preview" width="60%"/>
+    <img src="https://github.com/user-attachments/assets/e8bdf1b8-51ce-49ee-9445-93119b67b832" alt="Preview" width="60%"/>
   </a>
   <br/>
-  <a href="#hazemgharib"><img src="https://github.com/hazemgharib/gitprofile/assets/45073703/4d2ccd45-e566-4743-bf61-cadc03ece54c" width="50%" alt="Shadow"/></a>
+  <a href="#hazemgharib"><img src="https://github.com/user-attachments/assets/0f3da20d-264e-415c-bd58-0689c8ec26b9" width="50%" alt="Shadow"/></a>
 </p>
 
 **GitProfile** is a powerful portfolio builder that allows you to create a stunning and personalized portfolio site in minutes, even if you have no coding experience. Simply provide your GitHub username, and GitProfile will automatically generate a portfolio. Best of all, you can easily deploy your portfolio to GitHub Pages with just a few clicks, making it accessible to the world in no time.
@@ -34,13 +34,13 @@ To view a live example, **[click here](https://hazemgharib.github.io/gitprofile)
 - Install dependencies.
 
   ```shell
-  yarn
+  npm i
   ```
 
 - Run dev server.
 
   ```shell
-  yarn dev
+  npm run dev
   ```
 
 - Finally, visit `http://localhost:5173/gitprofile/` from your browser.
